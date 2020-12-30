@@ -1,8 +1,9 @@
 # Fighting COVID-19 System
 Coronavirus Disease (COVID-19) Cases Updating and Medical Resources Allocation System
 
-- Eco-System Architecture:
+### Eco-System Architecture:
 ![image](https://github.com/Houshilian/Fighting-COVID-19-System/blob/main/Architecture.png)
+
 ### Group members: 
 - * Xingxian Li   li.xingx@husky.neu.edu
   * Shilian Hou   hou.shi@northeastern.edu
@@ -18,7 +19,3 @@ The goal of our project is to create a demo application which can help the Cente
 - Enterprises’ system admin:
   * Manage all organization(Department)
   * Manage all employees  and their accounts
-
-- As a user, I should be able to open add a new todo item view by clicking the add button.
-- As a user, I should be able to add a todo item by entering the title, description, due date, and time.
-- As a user, I should be able to mark a todo item as complete.
