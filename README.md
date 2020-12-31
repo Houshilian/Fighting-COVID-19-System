@@ -1,6 +1,11 @@
 # Fighting COVID-19 System
 Coronavirus Disease (COVID-19) Cases Updating and Medical Resources Allocation System
 
+
+### INFO5100: 
+- Course name: Application Engineering and Development (Spring 2020)
+- Instructor: Bugrara, Khaled.
+
 ### Eco-System Architecture:
 ![image](https://github.com/Houshilian/Fighting-COVID-19-System/blob/main/Architecture.png)
 
